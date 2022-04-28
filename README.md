@@ -9,10 +9,18 @@
 ### Connect With Me  <img alt="( @- - )" src="http://www.sherv.net/cm/emoticons/hand-gestures/friendship-handshake-smiley-emoticon.gif" />
 <hr/>
 
+
 <!-- Linked In symbol for connect -->
 <a href="https://www.linkedin.com/in/kirankumar3117"><img alt="in" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" height="40" width="40"/></a> <!-- Twitter symbol for connect --> <a href="https://twitter.com/KiranKumar3117"><img alt="in" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" height="40" width="40"/></a> <!--Facebook symbol for connect -->  <a href="https://www.facebook.com/profile.php?id=100038814259863"><img alt="in" src="https://camo.githubusercontent.com/599d5698f486fceba384172e72aed2a256b1b98181f36808e953d397c158ee09/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f32782f66616365626f6f6b2e706e67" height="40" width="40"/></a> <!-- Instagram Symbol To Connect --> <a href="https://www.instagram.com/ch.kirankumar311/"><img alt="in" src="https://camo.githubusercontent.com/7a3abed65243dab95238bfede89ea30718ba581e7d2e72d7377bcd3e6ef41a83/68747470733a2f2f696d672e69636f6e73382e636f6d2f666c75656e63792f32782f696e7374616772616d2d6e65772e706e67" height="40" width="40"/></a>
 
-### Wanna Know About Me <img alt="( @-_-@)" src="https://1.bp.blogspot.com/-7KkIL6Rkvdg/WLurHshRmzI/AAAAAAAAVCQ/geCYVwMMf8Egc75SgDS_mdLOrZQe_lBXwCLcB/s1600/writing-smiley.gif"/> 
+### Wanna Know About Me <img alt="( @-_-@)" src="https://1.bp.blogspot.com/-7KkIL6Rkvdg/WLurHshRmzI/AAAAAAAAVCQ/geCYVwMMf8Egc75SgDS_mdLOrZQe_lBXwCLcB/s1600/writing-smiley.gif" width="100" height="100"/> 
+
+### Dedicated and detail-oriented aspiring full-stack developer <br/> 
+with
+specialization in MERN stack Development. Self-motivated and
+curious, with<br/> a keen interest in building user-friendly products.
+Looking forward to honing my <br/>skills in a challenging work
+environment
 <!--
 **kirankumar3117/kirankumar3117** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

@@ -28,7 +28,7 @@ environment
 - 📫 How to reach me **ch.kirankumar311@gmail.com**
 - 😄 Pronouns **Mr.KK**
 - ⚡ Fun fact **Sleep At Dawn ,Work At Night Peacefull right**<img alt="" src="https://2.bp.blogspot.com/-8Oie5cks15o/XX1ZJJucczI/AAAAAAAAWrE/MMSnUZtKIJAv_j0E_T3p7ZDQdwcowAS9ACLcBGAsYHQ/s1600/blue-shades-emoji.png" width="30" height="30"/>
-- 💬 Have a look at my <a href="https://kiranportfolio.vercel.app/resume">portfolio</a>
+- 💬 Have a look at my <a href="https://kirankumarportfolio.vercel.app/">portfolio</a>
 - 📝 I regularly write articles on <a href="https://medium.com/@ch.kirankumar311">medium</a>
 - 📄 Know about my experiences <a href="https://drive.google.com/file/d/18l0d-DRopZ6n0t8w9TAKzOcv3SnxLbyu/view?usp=sharing">resume</a>
 <hr/>

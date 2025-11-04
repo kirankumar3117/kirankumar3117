@@ -45,7 +45,7 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kirankumar3117&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://camo.githubusercontent.com/84b17cdadfadcbb530e56900539fb85d99aa1c02b17f25a5f9f9bceae83f5d62/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d6b6972616e6b756d6172333131372673686f775f69636f6e733d74727565267468656d653d7261646963616c" alt="GitHub Stats" />
 </p>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kirankumar3117&layout=compact&theme=tokyonight" alt="Top Languages" />

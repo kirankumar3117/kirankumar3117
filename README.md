@@ -16,7 +16,7 @@
 ### 🔭 About Me
 - 🔹 Currently: **ReactJS Developer** at **Blueray Automations, Mumbai** (Admin panels, ERP modules, automation UIs).  
 - 🔹 Focus: Component-driven UI, SCSS architecture, performance & accessibility.  
-- 🔹 Learning: Next.js, TypeScript, Python (FastAPI) for backend expansion.  
+- 🔹 Learning: Python (FastAPI) for backend expansion.  
 - 🔹 Free time: building small web projects, reading books, watching anime, and experimenting with UI micro-interactions.
 
 ---

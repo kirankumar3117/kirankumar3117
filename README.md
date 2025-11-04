@@ -1,22 +1,23 @@
 <h1 align="center">Hi there 👋, I'm <a href="https://github.com/kirankumar3117">Kiran Kumar</a> 🚀</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=00B2FF&center=true&width=700&lines=Full+Stack+Web+Developer;MERN+%7C+Vue+%7C+Next.js+Specialist;Lover+of+Clean+Code+and+UI+Design;Always+Learning+Something+New!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=00B2FF&center=true&width=700&lines=Frontend+Developer+%7C+ReactJS+%26+VueJS;Building+Modern+Admin+Panels+%26+Web+Apps;Always+Learning+%26+Exploring+New+Tech!" alt="Typing SVG" />
 </p>
 
 ---
 
 ### 🌟 About Me
 
-🎯 Dedicated and detail-oriented full-stack developer focused on MERN and MEVN stack development.  
-💡 I love solving real-world problems and building user-centric digital experiences.  
-👨‍💻 Self-taught, consistently upskilling, and sharing what I learn with the world.  
-✨ Currently exploring: **Next.js**, **GraphQL**, and **Cloud deployments**.  
+🎯 Passionate and detail-oriented **Frontend Developer** specializing in **ReactJS**, **VueJS**, and **modern web UI** development.  
+💼 Currently working at **Blueray Automations, Mumbai** as a **ReactJS Developer**, focusing on building **administration dashboards, internal ERP modules, and automation-based web platforms**.  
+💡 I believe in writing clean, maintainable code and crafting intuitive user experiences.  
+🚀 Exploring **Next.js**, **TypeScript**, and **Python backend (FastAPI)** to expand into full-stack capabilities.  
+🌱 Open to collaborating on creative web solutions, UI/UX-driven applications, and automation tools.  
 
 ---
 
-### 🔧 Tech Stack & Tools
+### 🧩 Tech Stack & Tools
 
-#### Frontend
+#### 🖥️ Frontend
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" />
@@ -24,15 +25,18 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="40" />
 </p>
 
-#### Backend & Tools
+#### ⚙️ Backend & Tools
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" width="40" />
 </p>
 
@@ -52,9 +56,19 @@
 
 ---
 
+### 💼 Experience Snapshot
+
+🏢 **Blueray Automations, Mumbai** — *ReactJS Developer*  
+📆 *2023 – Present*  
+- Building scalable admin panels, dashboards, and automation tools using ReactJS, VueJS, and REST APIs.  
+- Implemented UI enhancements, SCSS structure, and state management for large enterprise apps.  
+- Collaborated closely with backend and automation teams to ensure seamless integration.
+
+---
+
 ### 🔗 Let's Connect
 
-<p>
+<p align="center">
   <a href="https://www.linkedin.com/in/kirankumar3117" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
   </a>
@@ -80,16 +94,17 @@
 
 ---
 
-### 🔥 Fun Facts
+### 🎯 Fun Facts About Me
 
-- 🦉 I’m a night owl – I **code better when the world sleeps**.
-- 🤖 I enjoy debugging like solving real-life puzzles.
-- 🎬 Movie buff – Love dissecting plots and visual storytelling.
-- 💡 Motto: *Build things that matter.*
+- 🧠 I love solving UI/UX challenges and optimizing web performance.  
+- 📚 In my free time, I enjoy reading books, watching anime, and exploring design trends.  
+- 🎮 I sometimes experiment with creative side projects for learning new frameworks.  
+- ☕ Late-night coding sessions with lo-fi music are my happy hours.  
+- 💬 Motto: *"Build. Break. Learn. Repeat."*
 
 ---
 
-<!-- Footer -->
 <p align="center">
-  Made with ❤️ by <strong>Kiran Kumar Challagiri</strong>
+  Made with ❤️ by <strong>Kiran Kumar Challagiri</strong><br/>
+  <em>Frontend Developer | ReactJS | VueJS | Blueray Automations</em>
 </p>

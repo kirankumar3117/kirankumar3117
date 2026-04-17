@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm <a href="https://softwareguru.in">Kiran Kumar</a></h1>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=900&color=00B2FF&center=true&width=780&lines=Software+Engineer+%7C+ReactJS+%26+Next.js;Tech+Content+Creator+%40+CodeWithKiran;Speaker+%7C+Builder+%7C+Problem+Solver" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=900&color=00B2FF&center=true&width=780&lines=Software+Engineer+%7C+ReactJS+%26+Next.js+%26Node.js;Tech+Content+Creator+%40+CodeWithKiran;Speaker+%7C+Builder+%7C+Problem+Solver" alt="Typing SVG" />
 </p>
 
 ---
